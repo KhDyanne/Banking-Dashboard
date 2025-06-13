@@ -1,28 +1,30 @@
-📊 Baking System Dashboard Overview
-The Baking System Dashboard is an intelligent monitoring and decision-making tool designed for one of the leading banks in X Republic. It offers a centralized, data-driven overview of the bank's operational health, performance, and customer service quality across all branches.
+# Banking System Dashboard Overview
+The Banking System Dashboard is a smart monitoring and decision-support tool built for a leading bank in X Republic. It provides a centralized, data-driven view of operational performance, customer service, and branch efficiency.
 
-🔍 Core Features & Insights:
-📍 Branch Distribution
-Geographic visualization of all bank branches across the regions of X Republic, enabling regional performance comparisons.
+## Key Features & Insights
 
-🔄 Transaction Tracking
-Displays the number and value of transfers per branch, employee, and cash desk, helping identify high-performing units.
+- Branch Distribution  
+  Geographic view of all branches for regional performance comparison.
 
-🚦 Queue & Error Detection
-Highlights branches with long queues and high error rates, suggesting where additional cash desks or employees may be required to improve efficiency and service quality.
+- Transaction Tracking  
+  Tracks number and value of transfers by branch, employee, and cash desk to highlight top performers.
 
-💹 Financial Performance
-Monitors profit margins, total transfer amounts, and branch rankings to evaluate business performance and operational output.
+- Queue & Error Alerts  
+  Flags branches with long queues or high error rates, guiding staffing improvements.
 
-⏱ Service Time Analysis
-Tracks average service time and identifies peak hours for each branch to optimize staffing schedules and customer flow.
+- Financial Performance  
+  Monitors profits, transfer volumes, and branch rankings to assess output and growth.
 
-📈 Expansion Strategy Support
-Pinpoints regions with high customer density where new branches are needed to reduce service pressure and improve accessibility.
+- Service Time Analysis  
+  Identifies peak hours and average service durations to optimize schedules.
 
-🧑‍💼 Employee Performance Evaluation:
-🏆 Top Performers
-The dashboard identifies employees with the fastest service times, lowest error rates, and those contributing to high-value transactions and profitability — making them eligible for rewards and recognition.
+- Expansion Strategy  
+  Suggests high-demand regions for new branches to improve coverage.
 
-⚠️ Underperformers
-Employees with consistently slow service, high error rates, or low transaction volumes are flagged for training, reassignment, or potential termination based on performance thresholds.
+## Employee Performance Evaluation
+
+- Top Performers  
+  Highlights fast, accurate, and high-value employees for recognition.
+
+- Underperformers  
+  Flags consistently slow or error-prone staff for training or reassignment.
