@@ -1,5 +1,5 @@
 # Banking System Dashboard Overview
-The Banking System Dashboard is a smart monitoring and decision-support tool built for a leading bank in X Republic. It provides a centralized, data-driven view of operational performance, customer service, and branch efficiency.
+The Banking System Dashboard is a smart monitoring and decision-support tool built for a leading bank in Uzbekistan. It provides a centralized, data-driven view of operational performance, customer service, and branch efficiency.
 
 ## Key Features & Insights
 
